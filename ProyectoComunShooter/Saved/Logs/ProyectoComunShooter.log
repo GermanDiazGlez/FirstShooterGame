@@ -592,6 +592,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-18.53.46:271][  1]LogAssetRegistry: Asset discovery search completed in 22.9285 seconds
 [2020.04.27-18.53.46:275][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
 [2020.04.27-18.53.46:275][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+<<<<<<< Updated upstream
 [2020.04.27-18.54.46:300][656]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CF61AF83-4893-7EF3-DC7C-6198D9BC2A6A}
 [2020.04.27-18.54.46:300][656]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9FE6D988-407D-62C2-3A05-D6B68FE3CCA1}
 [2020.04.27-18.56.59:153][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
@@ -1186,3 +1187,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-19.06.14:844][254]LogD3D11RHI: ~FD3D11DynamicRHI
 [2020.04.27-19.06.14:871][254]LogExit: Exiting.
 [2020.04.27-19.06.14:889][254]Log file closed, 04/27/20 21:06:14
+=======
+>>>>>>> Stashed changes
