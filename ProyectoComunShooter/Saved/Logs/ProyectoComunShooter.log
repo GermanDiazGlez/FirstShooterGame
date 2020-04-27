@@ -557,3 +557,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-15.00.04:185][245]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={88FC3DCA-4954-4098-F8EF-E69D871ECA40}
 [2020.04.27-15.00.04:185][245]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9AB2DAE9-4532-C80E-A5FE-A7844E4C151F}
 [2020.04.27-15.00.20:726][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-15.05.58:854][724]Cmd: TRANSACTION UNDO
+[2020.04.27-15.05.58:863][724]LogEditorTransaction: Undo Rotate Actors
+[2020.04.27-15.05.58:981][724]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.27-15.05.59:904][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.27-15.06.01:519][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.27-15.06.02:063][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.27-15.06.02:245][ 39]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.27-15.06.30:680][353]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.27-15.06.32:045][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-15.06.32:666][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.27-15.09.04:593][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.27-15.09.04:593][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
